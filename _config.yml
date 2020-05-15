@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+webrick:
+  headers:
+    My-Header: 	蓝光星球
+    My-Other-Header: 观****如庵摩罗果
