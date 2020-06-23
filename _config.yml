@@ -1,5 +1,24 @@
 theme: jekyll-theme-cayman
-webrick:
-  headers:
-    My-Header: 	蓝光星球
-    My-Other-Header: 观****如庵摩罗果
+markdown: kramdown
+highlighter: rouge
+#permalink: /news/:year/:month/:day/:title/
+#excerpt_separator: ""
+
+#repository: https://github.com/jekyll/jekyll
+#help_url: https://github.com/jekyll/jekyll-help
+
+timezone: Asia/Shanghai
+
+#collections:
+#  docs:
+#    output: true
+
+name: 蓝光星球
+description: 观****如庵摩罗果
+# url: amlgx.github.io
+url: http://i.amlgx.com
+
+
+logo: img/head.jpg
+
+host: 0.0.0.0
