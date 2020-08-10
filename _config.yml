@@ -1,24 +1,31 @@
+lang: zh-CN
+title: Lighter
+email: 
+description: "从量变到质变，致力于观蓝光星球如庵摩罗果"
+
+url: http://amlgx.com
+author:
+  name: 光武中兴
+  picture: 
+github_username: 
+name: Lighter
+logo: /img/favicon.ico
+timezone: Asia/Shanghai
+
+# Build settings
 theme: jekyll-theme-cayman
 markdown: kramdown
 highlighter: rouge
-#permalink: /news/:year/:month/:day/:title/
-#excerpt_separator: ""
 
-#repository: https://github.com/jekyll/jekyll
-#help_url: https://github.com/jekyll/jekyll-help
+plugins: 
+#  - jekyll-sitemap
+  - jekyll-paginate
 
-timezone: Asia/Shanghai
+# Pagination - https://jekyllrb.com/docs/pagination/
+paginate: 10
+paginate_path: /page:num/
 
-#collections:
-#  docs:
-#    output: true
+# Exclude from processing.
+exclude: 
+  - draft
 
-name: 蓝光星球
-description: 观****如庵摩罗果
-# url: amlgx.github.io
-url: http://i.amlgx.com
-
-
-logo: img/head.jpg
-
-host: 0.0.0.0
