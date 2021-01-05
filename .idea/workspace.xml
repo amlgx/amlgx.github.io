@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b61647ca-d252-4f9b-ad2c-cf9fe35dd854" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about/简历.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1fgNDGTTZAe9dANtibjlIF2lZfK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b61647ca-d252-4f9b-ad2c-cf9fe35dd854" name="Default Changelist" comment="" />
+      <created>1596635656684</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596635656684</updated>
+      <workItem from="1596635665918" duration="243000" />
+      <workItem from="1597019362708" duration="386000" />
+      <workItem from="1597019796415" duration="180000" />
+      <workItem from="1597019989874" duration="160000" />
+      <workItem from="1597020165707" duration="147000" />
+      <workItem from="1597020326162" duration="1685000" />
+      <workItem from="1600823501484" duration="614000" />
+    </task>
+    <task id="LOCAL-00001" summary="add contents">
+      <created>1597019559531</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597019559531</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add contents" />
+    <option name="LAST_COMMIT_MESSAGE" value="add contents" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="467" y="344" width="982" height="435" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597019481606">
+      <screen x="0" y="38" width="1920" height="1042" />
+    </state>
+    <state x="467" y="344" width="982" height="435" key="#com.intellij.fileTypes.FileTypeChooser/0.38.1920.1042/0.38.1920.1042@0.38.1920.1042" timestamp="1597019481606" />
+    <state x="0" y="38" width="1415" height="1042" key="CommitChangelistDialog2" timestamp="1597019559012">
+      <screen x="0" y="38" width="1920" height="1042" />
+    </state>
+    <state x="0" y="38" width="1415" height="1042" key="CommitChangelistDialog2/0.38.1920.1042/0.38.1920.1042@0.38.1920.1042" timestamp="1597019559012" />
+    <state x="642" y="262" key="FileChooserDialogImpl" timestamp="1600824057968">
+      <screen x="0" y="38" width="1920" height="1042" />
+    </state>
+    <state x="642" y="262" key="FileChooserDialogImpl/0.38.1920.1042@0.38.1920.1042" timestamp="1600824057968" />
+    <state x="362" y="108" width="1196" height="907" key="SettingsEditor" timestamp="1597020662591">
+      <screen x="0" y="38" width="1920" height="1042" />
+    </state>
+    <state x="362" y="108" width="1196" height="907" key="SettingsEditor/0.38.1920.1042/0.38.1920.1042@0.38.1920.1042" timestamp="1597020662591" />
+    <state width="623" height="498" key="SwitcherDM" timestamp="1597023616330">
+      <screen x="0" y="38" width="1920" height="1042" />
+    </state>
+    <state width="623" height="498" key="SwitcherDM/0.38.1920.1042/0.38.1920.1042@0.38.1920.1042" timestamp="1597023616330" />
+    <state x="620" y="456" width="676" height="211" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597019583884">
+      <screen x="0" y="38" width="1920" height="1042" />
+    </state>
+    <state x="620" y="456" width="676" height="211" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.38.1920.1042/0.38.1920.1042@0.38.1920.1042" timestamp="1597019583884" />
+    <state x="539" y="45" key="search.everywhere.popup" timestamp="1597023643990">
+      <screen x="0" y="38" width="1920" height="1042" />
+    </state>
+    <state x="539" y="45" key="search.everywhere.popup/0.38.1920.1042/0.38.1920.1042@0.38.1920.1042" timestamp="1597023643990" />
+  </component>
+</project>
