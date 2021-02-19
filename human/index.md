@@ -16,3 +16,4 @@
 
 国际关系：金灿荣
 
+<iframe src="https://player.bilibili.com/player.html?bvid=&page=1&as_wide=1&high_quality=1&danmaku=0"allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>

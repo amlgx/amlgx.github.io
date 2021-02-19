@@ -32,3 +32,8 @@
 
 人类的进化周期在百万年级别，人工筛选的作用不大，反而国家竞争和婚姻自由，更有实际效果。婚姻的工具化违背了人的自由意志，不符合自然进化的习惯。
 
+### 身体对抗
+
+农村再教育
+
+<iframe src="https://player.bilibili.com/player.html?bvid=BV1v541177Ma&page=1&as_wide=1&high_quality=1&danmaku=0"allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
